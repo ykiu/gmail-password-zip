@@ -19,8 +19,8 @@
       },
       "universalActions": [
         {
-          "label": "Learn more about Cataas",
-          "openLink": "https://cataas.com"
+          "label": "About the Password Zip add-on",
+          "openLink": "https://github.com/ykiu/gmail-password-zip"
         }
       ],
       "layoutProperties": {
